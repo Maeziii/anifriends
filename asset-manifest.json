@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anifriends/static/css/main.4bebcd32.css",
+    "main.js": "/anifriends/static/js/main.b61e79df.js",
+    "static/js/787.c2225034.chunk.js": "/anifriends/static/js/787.c2225034.chunk.js",
+    "static/media/GREY.woff": "/anifriends/static/media/GREY.df6b73c61c06061d8c63.woff",
+    "index.html": "/anifriends/index.html",
+    "main.4bebcd32.css.map": "/anifriends/static/css/main.4bebcd32.css.map",
+    "main.b61e79df.js.map": "/anifriends/static/js/main.b61e79df.js.map",
+    "787.c2225034.chunk.js.map": "/anifriends/static/js/787.c2225034.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bebcd32.css",
+    "static/js/main.b61e79df.js"
+  ]
+}
